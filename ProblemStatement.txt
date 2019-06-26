@@ -1,0 +1,7 @@
+1.Multinational company whose 12 offices are all over in the world.
+2.They wnat to host a website for all employees.
+3.The website going to use for "access Corporate Customers Accounting related information".
+4.Company wants to deploy the system on public cloud.
+5.Company want to gentate or create a information system.
+6.They want to host this information syatem in the public cloud.
+7.The clouds are used for that are Google cloud platform or AWS. 

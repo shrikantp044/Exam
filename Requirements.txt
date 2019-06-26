@@ -1,0 +1,15 @@
+Functional requirements:
+
+1.Employee details
+2.Employee validations
+3.Access of information to Eemployee.
+4.Corporate Customers Accounting information. 
+5.database to sotre the Corporate Customers Accounting related information
+6.Google cloud or AWS
+
+
+
+Non-functional requirements:
+1.Security
+2.Availability of inforamtion
+3.
